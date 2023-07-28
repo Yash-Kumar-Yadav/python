@@ -1,6 +1,4 @@
 print('''
-+ ADD
-- SUBSTRACT
 * MULTIPLY
 / DIVIDE
 ''')
